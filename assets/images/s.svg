@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78.856" height="78.697" viewBox="0 0 78.856 78.697">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.796" y1="-0.189" x2="0.02" y2="1.213" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3ccaff"/>
+      <stop offset="1" stop-color="#ff83f1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2051" data-name="Group 2051" transform="translate(-156 -394.983)">
+    <g id="Group_1896" data-name="Group 1896" transform="translate(137 6)">
+      <path id="blob" d="M8.57.177C-.792,15.325-36.614,16.1-45.261,1.412-53.843-13.281-35.249-43.513-17.305-43.9.638-44.358,17.867-14.907,8.57.177Z" transform="translate(65.284 418.209) rotate(-90)" opacity="0.179" fill="url(#linear-gradient)"/>
+      <path id="blob-2" data-name="blob" d="M8.57.177C-.792,15.325-36.614,16.1-45.261,1.412-53.843-13.281-35.249-43.513-17.305-43.9.638-44.358,17.867-14.907,8.57.177Z" transform="translate(54.244 452.003) rotate(60)" opacity="0.179" fill="url(#linear-gradient)"/>
+      <path id="blob-3" data-name="blob" d="M10.2,1.46C.565,17.049-36.3,17.851-45.2,2.731-54.03-12.39-34.895-43.5-16.429-43.9,2.037-44.371,19.767-14.063,10.2,1.46Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 73.323, 443.976)" fill="url(#linear-gradient)"/>
+      <text id="S" transform="translate(47.5 442.579)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">S</tspan></text>
+    </g>
+  </g>
+</svg>
